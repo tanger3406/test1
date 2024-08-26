@@ -101,4 +101,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://tanger3406.github.io/lighthearted_cat.github.io/
+  branch: main
+  token: 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
